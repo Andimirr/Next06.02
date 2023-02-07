@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Пирамида\004_Algoritm\bin\Debug\net6.0\004_Algoritm.exe
+C:\Users\User\Documents\Пирамида\004_Algoritm\bin\Debug\net6.0\004_Algoritm.deps.json
+C:\Users\User\Documents\Пирамида\004_Algoritm\bin\Debug\net6.0\004_Algoritm.runtimeconfig.json
+C:\Users\User\Documents\Пирамида\004_Algoritm\bin\Debug\net6.0\004_Algoritm.dll
+C:\Users\User\Documents\Пирамида\004_Algoritm\bin\Debug\net6.0\004_Algoritm.pdb
+C:\Users\User\Documents\Пирамида\004_Algoritm\obj\Debug\net6.0\004_Algoritm.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Пирамида\004_Algoritm\obj\Debug\net6.0\004_Algoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Пирамида\004_Algoritm\obj\Debug\net6.0\004_Algoritm.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Пирамида\004_Algoritm\obj\Debug\net6.0\004_Algoritm.AssemblyInfo.cs
+C:\Users\User\Documents\Пирамида\004_Algoritm\obj\Debug\net6.0\004_Algoritm.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Пирамида\004_Algoritm\obj\Debug\net6.0\004_Algoritm.dll
+C:\Users\User\Documents\Пирамида\004_Algoritm\obj\Debug\net6.0\refint\004_Algoritm.dll
+C:\Users\User\Documents\Пирамида\004_Algoritm\obj\Debug\net6.0\004_Algoritm.pdb
+C:\Users\User\Documents\Пирамида\004_Algoritm\obj\Debug\net6.0\004_Algoritm.genruntimeconfig.cache
+C:\Users\User\Documents\Пирамида\004_Algoritm\obj\Debug\net6.0\ref\004_Algoritm.dll
