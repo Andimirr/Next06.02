@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Пирамида\003c\bin\Debug\net6.0\003c.exe
+C:\Users\User\Documents\Пирамида\003c\bin\Debug\net6.0\003c.deps.json
+C:\Users\User\Documents\Пирамида\003c\bin\Debug\net6.0\003c.runtimeconfig.json
+C:\Users\User\Documents\Пирамида\003c\bin\Debug\net6.0\003c.dll
+C:\Users\User\Documents\Пирамида\003c\bin\Debug\net6.0\003c.pdb
+C:\Users\User\Documents\Пирамида\003c\obj\Debug\net6.0\003c.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Пирамида\003c\obj\Debug\net6.0\003c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Пирамида\003c\obj\Debug\net6.0\003c.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Пирамида\003c\obj\Debug\net6.0\003c.AssemblyInfo.cs
+C:\Users\User\Documents\Пирамида\003c\obj\Debug\net6.0\003c.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Пирамида\003c\obj\Debug\net6.0\003c.dll
+C:\Users\User\Documents\Пирамида\003c\obj\Debug\net6.0\refint\003c.dll
+C:\Users\User\Documents\Пирамида\003c\obj\Debug\net6.0\003c.pdb
+C:\Users\User\Documents\Пирамида\003c\obj\Debug\net6.0\003c.genruntimeconfig.cache
+C:\Users\User\Documents\Пирамида\003c\obj\Debug\net6.0\ref\003c.dll
