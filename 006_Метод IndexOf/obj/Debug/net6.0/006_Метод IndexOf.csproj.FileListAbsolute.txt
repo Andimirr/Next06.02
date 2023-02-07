@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Пирамида\006_Метод IndexOf\obj\Debug\net6.0\006_Метод IndexOf.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Пирамида\006_Метод IndexOf\obj\Debug\net6.0\006_Метод IndexOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Пирамида\006_Метод IndexOf\obj\Debug\net6.0\006_Метод IndexOf.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Пирамида\006_Метод IndexOf\obj\Debug\net6.0\006_Метод IndexOf.AssemblyInfo.cs
+C:\Users\User\Documents\Пирамида\006_Метод IndexOf\obj\Debug\net6.0\006_Метод IndexOf.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Пирамида\006_Метод IndexOf\bin\Debug\net6.0\006_Метод IndexOf.exe
+C:\Users\User\Documents\Пирамида\006_Метод IndexOf\bin\Debug\net6.0\006_Метод IndexOf.deps.json
+C:\Users\User\Documents\Пирамида\006_Метод IndexOf\bin\Debug\net6.0\006_Метод IndexOf.runtimeconfig.json
+C:\Users\User\Documents\Пирамида\006_Метод IndexOf\bin\Debug\net6.0\006_Метод IndexOf.dll
+C:\Users\User\Documents\Пирамида\006_Метод IndexOf\bin\Debug\net6.0\006_Метод IndexOf.pdb
+C:\Users\User\Documents\Пирамида\006_Метод IndexOf\obj\Debug\net6.0\006_Метод IndexOf.dll
+C:\Users\User\Documents\Пирамида\006_Метод IndexOf\obj\Debug\net6.0\refint\006_Метод IndexOf.dll
+C:\Users\User\Documents\Пирамида\006_Метод IndexOf\obj\Debug\net6.0\006_Метод IndexOf.pdb
+C:\Users\User\Documents\Пирамида\006_Метод IndexOf\obj\Debug\net6.0\006_Метод IndexOf.genruntimeconfig.cache
+C:\Users\User\Documents\Пирамида\006_Метод IndexOf\obj\Debug\net6.0\ref\006_Метод IndexOf.dll
